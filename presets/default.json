@@ -1,5 +1,5 @@
 {
-    "default_model": "cyberrealisticPony_v65.json",
+    "default_model": "CyberRealisticPony_V7.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "cyberrealisticPony_v65.json": "https://drive.lledyl.workers.dev/0:/Fooocus/cyberrealisticPony_v65.json"
+        "CyberRealisticPony_V7.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V7.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
