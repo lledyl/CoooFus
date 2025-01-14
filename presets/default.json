@@ -1,5 +1,5 @@
 {
-    "default_model": "real-dream-sdxlpony13.safetensors",
+    "default_model": "cyberrealisticPony_v65.json",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "real-dream-sdxlpony13.safetensors": "https://drive.lledyl.workers.dev/0:/Fooocus/models/checkpoints/realDream_sdxlPony13.safetensors"
+        "cyberrealisticPony_v65.json": "https://drive.lledyl.workers.dev/0:/Fooocus/cyberrealisticPony_v65.json"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
