@@ -48,7 +48,8 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "EPpkMarnie.safetensors": "https://drive.lledyl.workers.dev/0:/Fooocus/models/loras-install/EPpkMarnie.safetensors",
+        "InniePussy1%20Pony%20v2.safetensors": "https://drive.lledyl.workers.dev/0:/Fooocus/models/loras-install/InniePussy1%20Pony%20v2.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
