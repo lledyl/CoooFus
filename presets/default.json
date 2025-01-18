@@ -4,18 +4,18 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            false,
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
-        ],
-        [
             true,
-            "None",
+            "amateur flashlight_pony.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "Cosine_freck.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "InniePussy1 Pony v2.safetensors",
             1.0
         ],
         [
@@ -36,24 +36,14 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "CyberRealisticPony_V7.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V7.safetensors"
+        "CyberRealisticPony_V7.safetensors": "https://civitai.com/api/download/models/1177183?token=1611a9959260c00cb564c0e14433cedc"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
     },
-    "previous_default_models": [
-        "juggernautXL_version8Rundiffusion.safetensors",
-        "juggernautXL_version7Rundiffusion.safetensors",
-        "juggernautXL_v7Rundiffusion.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
-    ]
+    "previous_default_models": []
 }
