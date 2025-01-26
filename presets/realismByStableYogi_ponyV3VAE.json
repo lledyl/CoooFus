@@ -5,8 +5,8 @@
     "default_loras": [
         [
             true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            "None",
+            1.0
         ],
         [
             true,
@@ -36,25 +36,13 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realismByStableYogi_ponyV3VAE": "https://huggingface.co/asiryan/realism-by-stable-yogi/resolve/main/realismByStableYogi_ponyV3VAE.safetensors"
+        "realismByStableYogi_ponyV3VAE": "https://civitai.com/api/download/models/992946?token=1611a9959260c00cb564c0e14433cedc"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
-    },
-    "previous_default_models": [
-        "juggernautXL_version8Rundiffusion.safetensors",
-        "juggernautXL_version7Rundiffusion.safetensors",
-        "juggernautXL_v7Rundiffusion.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
-    ]
+    "lora_downloads": {},
+    "previous_default_models": []
 }
