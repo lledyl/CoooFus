@@ -1,5 +1,5 @@
 {
-    "default_model": "nukePonyPixarStyle_v2S",
+    "default_model": "pony/nukePonyPixarStyle_v2S",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
