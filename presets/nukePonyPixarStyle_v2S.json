@@ -1,5 +1,5 @@
 {
-    "default_model": "pony/nukePonyPixarStyle_v2S",
+    "default_model": "nukePonyPixarStyle_v2S",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,7 +40,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realismByStableYogi_ponyV3VAE.safetensors": "https://drive.lledyl.workers.dev/0:/nukePonyPixarStyle_v2S.safetensors"
+        "nukePonyPixarStyle_v2S.safetensors": "https://drive.lledyl.workers.dev/0:/nukePonyPixarStyle_v2S.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
