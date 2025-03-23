@@ -1,5 +1,5 @@
 {
-    "default_model": "CyberRealisticPony_V7.safetensors",
+    "default_model": "CyberRealisticPony_V8.5.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,7 +40,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "CyberRealisticPony_V7.safetensors": "https://civitai.com/api/download/models/1177183?token=1611a9959260c00cb564c0e14433cedc"
+        "CyberRealisticPony_V8.5.safetensors": "https://civitai.com/api/download/models/1478064?token=1611a9959260c00cb564c0e14433cedc"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
