@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyRealism_V22MainVAE",
+    "default_model": "ponyRealism_V22MainVAE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
