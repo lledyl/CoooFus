@@ -40,7 +40,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "nukePonyPixarStyle_v2S.safetensors": "https://civitai.com/api/download/models/585661?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "nukePonyPixarStyle_v2S.safetensors": "https://civitai.com/api/download/models/585661?token=1611a9959260c00cb564c0e14433cedc"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
