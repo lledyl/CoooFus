@@ -1,5 +1,5 @@
 {
-    "default_model": "CyberRealisticPony_V8.5.safetensors",
+    "default_model": "CyberRealisticPony_V12.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,10 +40,14 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "CyberRealisticPony_V8.5.safetensors": "https://civitai.com/api/download/models/1478064?token=1611a9959260c00cb564c0e14433cedc"
+        "CyberRealisticPony_V12.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V12.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "amateur flashlight_pony.safetensors": "https://civitai.com/api/download/models/903645?token=1611a9959260c00cb564c0e14433cedc",
+        "zy_Skin_Enhancer_v1.safetensors": "https://civitai.com/api/download/models/1549441?token=1611a9959260c00cb564c0e14433cedc",
+        "zy_Realism_Enhancer_v2.safetensors": "https://civitai.com/api/download/models/1439429?token=1611a9959260c00cb564c0e14433cedc",
+        "flux-civitai-dataset-rdxl-v5-learning-rate-2.safetensors": "https://civitai.com/api/download/models/737262?token=1611a9959260c00cb564c0e14433cedc"
     },
     "previous_default_models": []
 }
