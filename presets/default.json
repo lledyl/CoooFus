@@ -44,9 +44,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Lora1.safetensors": "LORA1URL",
-        "Lora2.safetensors": "LORA2URL",
-        "Lora3.safetensors": "LORA3URL",
         "amateur flashlight_pony.safetensors": "https://civitai.com/api/download/models/903645?token=1611a9959260c00cb564c0e14433cedc",
         "zy_Skin_Enhancer_v1.safetensors": "https://civitai.com/api/download/models/1549441?token=1611a9959260c00cb564c0e14433cedc",
         "zy_Realism_Enhancer_v2.safetensors": "https://civitai.com/api/download/models/1439429?token=1611a9959260c00cb564c0e14433cedc",
