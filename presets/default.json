@@ -1,21 +1,21 @@
 {
-    "default_model": "CyberRealisticPony_V12.safetensors",
+    "default_model": "MODELNAME.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "amateur flashlight_pony.safetensors",
+            "",
             1.0
         ],
         [
             true,
-            "Cosine_freck.safetensors",
+            "",
             1.0
         ],
         [
             true,
-            "InniePussy1 Pony v2.safetensors",
+            "",
             1.0
         ],
         [
@@ -40,10 +40,13 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "CyberRealisticPony_V12.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V12.safetensors"
+        "MODELNAME.safetensors": "URLCHANGE"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "Lora1.safetensors": "LORA1URL"
+        "Lora2.safetensors": "LORA2URL"
+        "Lora3.safetensors": "LORA3URL"
         "amateur flashlight_pony.safetensors": "https://civitai.com/api/download/models/903645?token=1611a9959260c00cb564c0e14433cedc",
         "zy_Skin_Enhancer_v1.safetensors": "https://civitai.com/api/download/models/1549441?token=1611a9959260c00cb564c0e14433cedc",
         "zy_Realism_Enhancer_v2.safetensors": "https://civitai.com/api/download/models/1439429?token=1611a9959260c00cb564c0e14433cedc",
