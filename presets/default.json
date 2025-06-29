@@ -44,7 +44,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "amateur flashlight.safetensors": "https://civitai.com/api/download/models/903645?token=1611a9959260c00cb564c0e14433cedc",
+        "amateur flashlight_pony.safetensors": "https://civitai.com/api/download/models/903645?token=1611a9959260c00cb564c0e14433cedc",
         "zy_Skin_Enhancer_v1.safetensors": "https://civitai.com/api/download/models/1549441?token=1611a9959260c00cb564c0e14433cedc",
         "zy_Realism_Enhancer_v2.safetensors": "https://civitai.com/api/download/models/1439429?token=1611a9959260c00cb564c0e14433cedc",
         "flux-civitai-dataset-rdxl-v5-learning-rate-2.safetensors": "https://civitai.com/api/download/models/737262?token=1611a9959260c00cb564c0e14433cedc"
